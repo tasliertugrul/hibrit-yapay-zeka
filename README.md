@@ -1,5 +1,3 @@
-# hibrit-yapay-zeka
-düşük sistemler için yapay zeka
 # 🧠 Hibrit Yapay Zeka (Ultra Hafif)
 
 Eski ve düşük donanımlı Linux bilgisayarlar için geliştirilmiş, **Bash ve Python** mimarisini birleştiren yapay zeka asistanı.
